@@ -9,4 +9,6 @@ func main() {
 	}
 
 	fmt.Println("bug-fix")
+
+	fmt.Println("hot-fix")
 }
