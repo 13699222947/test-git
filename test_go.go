@@ -10,7 +10,6 @@ func main() {
 
 	fmt.Println("bug-fix")
 
-<<<<<<< HEAD
 	fmt.Println("master-fix")
 =======
 	fmt.Println("hot-fix")
